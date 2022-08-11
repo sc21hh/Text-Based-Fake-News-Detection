@@ -1,11 +1,17 @@
 # Text-Based-Fake-News-Detection
 2021/22 Master's Thesis, University of Leeds
 
-The aim of this project is to investigate the comparison of different algorithms used in text-based supervised fake news detection methods that use textual information from news as input for the detection of fake news. 
+
 
 Structure of the project：
 
 ![Structure of the project](https://github.com/sc21hh/Text-Based-Fake-News-Detection/blob/main/images/1.jpg)
+
+datasets:
+  Fake News Dataset : https://www.kaggle.com/competitions/fake-news/data
+  Liar Dataset: https://paperswithcode.com/dataset/liar
+  
+After downloading the dataset, place it in the dataset directory
 
 Steps:
 1. Run the data_process.py
